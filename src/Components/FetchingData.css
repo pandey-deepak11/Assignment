@@ -1,0 +1,11 @@
+.inputFeild {
+  display: flex;
+  gap: 20px;
+}
+
+.container {
+  width: 70%;
+  padding: 50px;
+  margin-left: 50px;
+  margin: auto;
+}
